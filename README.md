@@ -5,7 +5,6 @@
 
 <div align="center">
 <p></p>
-<img src="https://www.cutercounter.com/hits.php?id=hxxocqa&nd=9&style=22" alt="hit counter" align="center">
 <img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
 </div>
 

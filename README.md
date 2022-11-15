@@ -3,7 +3,14 @@
 🌱 I’m currently learning Web3 Development
 📫 How to reach me : @_am_clair_
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<div align="center">
+<p></p>
+<img src="https://www.cutercounter.com/hits.php?id=hxxocqa&nd=9&style=22" alt="hit counter" align="center">
+<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
+</div>
+
+<div align="center">
+
 
 <!--
 **theeditor-19/theeditor-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

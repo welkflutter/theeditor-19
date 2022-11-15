@@ -3,7 +3,17 @@
 🌱 I’m currently learning Web3 Development
 📫 How to reach me : @_am_clair_
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Hello World!! 🤔
+- 💬 Ask me about anything an everything.
+- 📫 Read my blogs: [Harsh Blog](https://medium.com/harsh-kumar-khatri).
+- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html).
+- 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw).
+- ⚡ Fun fact: Internet users blink less than usual.
+
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=theeditor-19&hide=["issues"]&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=theeditor-19.theeditor-19)
+
 
 
 <!--

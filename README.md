@@ -3,12 +3,7 @@
 🌱 I’m currently learning Web3 Development
 📫 How to reach me : @_am_clair_
 
-<div align="center">
-<p></p>
-<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
-</div>
-
-<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

@@ -1,19 +1,9 @@
-### Hi there 👋
-🔭 I’m currently working on Software Development
-🌱 I’m currently learning Web3 Development
-📫 How to reach me : @_am_clair_
-
-## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [Harsh Blog](https://medium.com/harsh-kumar-khatri).
-- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html).
-- 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw).
+### Hello World!!👋
+- 🔭 I’m currently working on Software Development
+- 🌱 I’m currently learning Web3 Development
+- 📫 How to reach me : @_am_clair_
+- 📚 Read my blogs: [Welks View](medium.com/@clairwelk19).
 - ⚡ Fun fact: Internet users blink less than usual.
-
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=theeditor-19&hide=["issues"]&show_icons=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=theeditor-19.theeditor-19)
-
 
 
 <!--
@@ -27,6 +17,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html).
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

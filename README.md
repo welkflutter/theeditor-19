@@ -1,7 +1,7 @@
 ### Hello World!!👋
 - 🔭 I’m currently working on Software Development
 - 🌱 I’m currently learning Web3 Development
-- 📫 How to reach me : @_am_clair_
+- 📫 How to reach me : [@_am_clair_](https://www.instagram.com/_am_clair_/)
 - 📚 Read my blogs: [Welks View](medium.com/@clairwelk19).
 - ⚡ Fun fact: Internet users blink less than usual.
 

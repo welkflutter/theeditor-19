@@ -1,7 +1,11 @@
 <h1 align="center" >Hi 👋, I'm Welkince Clair</h1>
 <h3 align="center">A passionate frontend developer and Graphic Designer</h3>
 
-<img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" align="center" class="center" alt="Girl in a jacket" width="150" height="100"><img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" align="center" class="center" alt="Girl in a jacket" width="150" height="100"><img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" align="center" class="center" alt="Girl in a jacket" width="150" height="100"><img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" align="center" class="center" alt="Girl in a jacket" width="150" height="100"><img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" align="center" class="center" alt="Girl in a jacket" width="150" height="100"><img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" align="center" class="center" alt="Girl in a jacket" width="150" height="100">
+<img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" align="center" class="center" alt="Girl in a jacket" width="150" height="100">
+<img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" align="center" class="center" alt="Girl in a jacket" width="150" height="100">
+<img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" align="center" class="center" alt="Girl in a jacket" width="150" height="100">
+<img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" align="center" class="center" alt="Girl in a jacket" width="150" height="100">
+<img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" align="center" class="center" alt="Girl in a jacket" width="150" height="100">
 
 - 🔭 I’m currently working on **Our College Website**
 

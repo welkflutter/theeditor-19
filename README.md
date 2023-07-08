@@ -3,13 +3,9 @@
 
 <img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" align="center" class="center" alt="Girl in a jacket" width="150" height="100"><img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" align="center" class="center" alt="Girl in a jacket" width="150" height="100"><img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" align="center" class="center" alt="Girl in a jacket" width="150" height="100"><img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" align="center" class="center" alt="Girl in a jacket" width="150" height="100"><img src="https://media.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif" align="center" class="center" alt="Girl in a jacket" width="150" height="100">
 
-- 🔭 I’m currently working on **Our College Website**
+- 🌱 I’m currently learning **Flutter Development**
 
-- 🌱 I’m currently learning **Software Development**
-
-- 🤝 I’m looking for help with **Flutter Development**
-
-- 🤹🏽 Have a Skill On **Designing**
+- 🤹🏽 Also Have a Skill On **Designing**
 
 - 📝 Read my blogs on [Welks View](https://medium.com/@clairwelk19)
 

@@ -23,6 +23,6 @@
 <a href="https://www.facebook.com/people/Welkince-Clair/100004889509223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="welkince clair" height="30" width="40" /></a>
 <a href="https://instagram.com/_am_clair_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_am_clair_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/welkince clair pn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="welkince clair pn" height="30" width="40" /></a>
-<a href="https://discord.com/users/am_clair#4741" target="blank"><img align="center" src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-1024x1024.png" alt="_am_clair_" height="40" width="40" /></a>
+<a href="https://discord.com/users/am_clair#4741" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="_am_clair_" height="40" width="40" /></a>
 <a href="https://medium.com/@clairwelk19" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="@clairwelk19" height="40" width="40" /></a>
 </p>

@@ -19,7 +19,7 @@
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_am_clair_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_am_clair_" height="30" width="40" /></a>
+<a href="https://twitter.com/am_clair_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_am_clair_" height="30" width="40" /></a>
 <a href="https://www.facebook.com/people/Welkince-Clair/100004889509223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="welkince clair" height="30" width="40" /></a>
 <a href="https://instagram.com/_am_clair_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_am_clair_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/welkince clair pn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="welkince clair pn" height="30" width="40" /></a>

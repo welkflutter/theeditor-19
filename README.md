@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter Development**
 
-- 💼 Working as Communications Coordinator at [E.F.I]([https://indiaenvironment.org])
+- 💼 Working as Communications Coordinator at [E.F.I](https://indiaenvironment.org)
 
 - 🤹🏽 Also Have a Skill On **Designing**
 

@@ -5,11 +5,13 @@
 
 - 🌱 I’m currently learning **Flutter Development**
 
+- 💼 Working as Communications Coordinator at [E.F.I]([https://indiaenvironment.org])
+
 - 🤹🏽 Also Have a Skill On **Designing**
 
 - 📝 Read my blogs on [Welks View](https://medium.com/@clairwelk19)
 
-- 📫 How to reach me **iamclair19@gmail.com**
+- 📫 How to reach me **welkflutter@gmail.com**
 
 - ⚡ Fun fact **Internet users blink less than usual.**
 
